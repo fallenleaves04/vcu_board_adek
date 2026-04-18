@@ -587,7 +587,7 @@
       "idf": "",
       "netlist": "",
       "plot": "./",
-      "pos_files": "",
+      "pos_files": "./",
       "specctra_dsn": "",
       "step": "G473_dev_board.step",
       "svg": "",
