@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ECS-3225MVLC-080-CN-TR
+D Standard Clock Oscillators 8.000 MHz Multi-Volt 1.6 3.6V +/-25 ppm -40 +85 C 4-SMD 3.2x2.5mm Low Current RoHS
+K
+F https://ecsxtal.com/store/pdf/ECS-3225MVLC.pdf
+$ENDCMP
+#
+#End Doc Library

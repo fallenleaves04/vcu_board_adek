@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ECS-3225MVLC-080-CN-TR")(type "KiCad")(uri "${KIPRJMOD}/ECS-3225MVLC-080-CN-TR.pretty/ECS-3225MVLC-080-CN-TR.kicad_sym")(options "")(descr "3.2x2.5x1.0mm SMD MultiVolt Low Current Crystal Oscillator"))
+  (lib (name "DS1022-2_10RF11-B")(type "KiCad")(uri "${KIPRJMOD}/DS1022-2_10RF11-B/DS1022-2_10RF11-B.kicad_sym")(options "")(descr "2x10 CONNFLY Connector Pin Strip"))
+  (lib (name "ABS07-120-32.768KHZ-T")(type "KiCad")(uri "${KIPRJMOD}/ABS07-120-32.768KHZ-T.pretty/ABS07-120-32_768KHZ-T.kicad_sym")(options "")(descr "32.768kHz SMD LOW PROFILE CRYSTAL"))
+  (lib (name "DS1021-1_3SF11-B")(type "KiCad")(uri "${KIPRJMOD}/DS1021-1_3SF11-B/DS1021-1_3SF11-B.kicad_sym")(options "")(descr "1x3 CONNFLY Jumper"))
+  (lib (name "8-1241434-1")(type "KiCad")(uri "${KIPRJMOD}/1241434-1.pretty/8-1241434-1.kicad_sym")(options "")(descr ""))
+  (lib (name "ECS-327ATQMV-AS-TR")(type "KiCad")(uri "${KIPRJMOD}/ECS-327ATQMV-AS-TR.pretty/ECS-327ATQMV-AS-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "ESDZL5-1F4")(type "KiCad")(uri "${KIPRJMOD}/ESDZL5-1F4.pretty/ESDZL5-1F4.kicad_sym")(options "")(descr ""))
+)

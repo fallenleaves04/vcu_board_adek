@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS1022-2_10RF11-B
+D Pin header; pin strips; male; PIN: 20; angled 90; 2.54mm; THT; 2x10
+K
+F https://en.connfly.com/static/upload/file//DS1022.pdf
+$ENDCMP
+#
+#End Doc Library

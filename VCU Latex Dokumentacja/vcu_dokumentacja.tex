@@ -1,0 +1,44 @@
+% !TEX program = xelatex
+% !TeX encoding = utf8
+% !TeX spellcheck = pl-PL
+
+\documentclass[thesis=inz,faculty=ee]{vcu_dokumentacja}
+
+
+%\grantlicense{TRUE} % [TRUE|FALSE]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Tu zaczyna się dokument
+% Here is the beginning of the document
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+    % Strony nagłówkowe
+    % Headers
+    %\frontpages
+	
+	\begin{titlepage}
+		\setstretch{2.5}
+		\centering
+		\vspace{2cm}
+		{\includegraphics[width=6cm]{gfx/adek_navy.png}}\\[2cm]
+		{\LARGE \textbf{Dokumentacja projektu komputera pokładowego (VCU) samochodu elektrycznego "Autonomiczne eBuggy"}}\\[2cm]
+		
+		\textbf{Wykonał}\\{Yaraslau Yakubouski}\\[1cm]
+		{\large Ostatnia edycja: \today}
+		
+	\end{titlepage}
+    % kolejne rozdziały pracy
+    \input{tekst/1_glowne_cechy}
+	\input{tekst/2_wyprowadzenia}
+	\input{tekst/3_opis_funkcji}
+    %\bibliografia
+
+    % Spis rysunków
+    \listoffigures
+    % Spis tabel
+    \listoftables
+    % Załączniki (plik appendices.tex)
+    %\załączniki
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

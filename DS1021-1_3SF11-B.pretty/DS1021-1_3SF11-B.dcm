@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS1021-1_3SF11-B
+D Pin header; pin strips; male; PIN: 3; straight; 2.54mm; THT; 1x3
+K
+F http://cn.connfly.group/static/upload/file/pdf/DS1021.pdf
+$ENDCMP
+#
+#End Doc Library

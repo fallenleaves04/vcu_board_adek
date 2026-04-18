@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model DS1021-1_3SF11-B
+#/18840191/1570774/2.50/3/3/Connector
+DEF DS1021-1_3SF11-B J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "DS1021-1_3SF11-B" 650 200 50 H V L CNN
+F2 "HDRV3W64P0X254_1X3_762X250X575P" 650 100 50 H I L CNN
+F3 "http://cn.connfly.group/static/upload/file/pdf/DS1021.pdf" 650 0 50 H I L CNN
+F4 "Pin header; pin strips; male; PIN: 3; straight; 2.54mm; THT; 1x3" 650 -100 50 H I L CNN "Description"
+F5 "5.75" 650 -200 50 H I L CNN "Height"
+F6 "" 650 -300 50 H I L CNN "TME Electronic Components Part Number"
+F7 "" 650 -400 50 H I L CNN "TME Electronic Components Price/Stock"
+F8 "Connfly" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "DS1021-1*3SF11-B" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

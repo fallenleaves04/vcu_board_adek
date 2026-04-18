@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ECS-327ATQMV-AS-TR
+D Standard Clock Oscillators 32.768kHz HCMOS AEC-Q200 1.62-3.63V
+K
+F https://www.ecsxtal.com/store/pdf/ECS-327ATQMV.pdf
+$ENDCMP
+#
+#End Doc Library
