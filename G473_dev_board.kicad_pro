@@ -586,10 +586,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "./",
+      "plot": "Gerber Files/",
       "pos_files": "./",
       "specctra_dsn": "",
-      "step": "G473_dev_board.step",
+      "step": "vcu_board.step",
       "svg": "",
       "vrml": ""
     },
@@ -786,7 +786,7 @@
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Value"
+      "sort_field": "Manufacturer"
     },
     "connection_grid_size": 50.0,
     "drawing": {

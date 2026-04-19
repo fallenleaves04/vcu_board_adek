@@ -1,76 +1,83 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"C76,C34,C12";"C_0603_1608Metric";3;"0.1u";;;
-2;"R28,R24,R126,R141,R102,R45,R159,R108,R109,R104,R138,R106,R103,R129,R22,R132,R105,R107,R30,R26";"R_0402_1005Metric";20;"R_DIG_2";;;
-3;"C31,C16,C1,C32,C8,C7,C36,C9,C18,C10,C72,C68,C95,C74,C15,C45,C17,C33,C14,C53,C70";"C_0402_1005Metric";21;"0.1u";;;
-4;"R127";"R_0402_1005Metric";1;"16.5k";;;
-5;"R27,R63,R86,R137,R75,R21,R29,R128,R88,R49,R65,R47,R158,R73,R61,R131,R125,R67,R25,R140";"R_0402_1005Metric";20;"R_DIG_1";;;
-6;"R12,R130,R13";"R_0402_1005Metric";3;"100k";;;
-7;"R136,R139";"R_0603_1608Metric";2;"5.1k";;;
-8;"R37,R42,R39,R41,R40,R38,R118,R117";"R_0402_1005Metric";8;"1k";;;
-9;"D91,D105,D107,D89,D104,D108,D101,D87,D98,D94,D106,D103,D96,D1,D83,D71,D78,D77,D64,D60,D57,D86,D85,D58,D39,D46,D49,D68,D74,D70,D73,D54,D61,D81,D80,D50,D66,D76,D72,D100,D79,D67,D82,D62,D65,D99,D53,D56,D59,D47,D75,D84,D69,D52,D63";"ESDZL51F4";55;"ESDZL5-1F4";;;
-10;"D102,D6,D2,D92";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";4;"LED";;;
-11;"U17";"SOIC-8_3.9x4.9mm_P1.27mm";1;"24LC512-E/SN";;;
-12;"SW2,SW1";"SW_SPST_B3U-1000P";2;"SW_Push";;;
-13;"HSO1,HSO5,HSO6,HSO4,HSO2,HSO3";"LED_0603_1608Metric";6;"LED";;;
-14;"J2,J3";"PinHeader_1x04_P1.00mm_Vertical_SMD_Pin1Left";2;"Conn_01x04_Pin";;;
-15;"R18";"R_0402_1005Metric";1;"562k";;;
-16;"C40,C41";"C_1210_3225Metric";2;"47u";;;
-17;"C23,C26,C30,C24,C29,C27";"C_0402_1005Metric";6;"100p";;;
-18;"R57,R66,R84,R48,R32,R76,R165";"R_0805_2012Metric";7;"1.5k";;;
-19;"D35,D23,D33,D32,D20,D25,D21,D17,D22,D34,D36,D24,D30,D14,D12,D29,D31,D9,D27,D43,D8,D38,D16,D26,D10,D37,D44,D11,D45,D40,D13,D7,D28,D42,D41,D18";"SOT-323_SC-70";36;"BAT54SW";;;
-20;"D48";"D_SMB_Handsoldering";1;"SM6T33A/CA";;;
-21;"U12,U9,U11,U10,U15";"SOT-23-5_HandSoldering";5;"74LVC1G17";;;
-22;"R113,R170,R166,R46,R19,R83,R74,R167,R55,R1,R124,R122,R64,R123,R92,R68,R121,R23,R50,R80,R35,R59";"R_0402_1005Metric";22;"10k";;;
-23;"C47,C48,C52,C96,C89,C46,C83,C97,C64,C80,C44,C62,C67,C77,C79,C5,C61,C63,C4,C82,C87,C57,C65,C88,C66,C42,C84,C58,C78,C69,C60,C81,C11,C43,C86,C38,C75,C85,C49,C59";"C_0402_1005Metric";40;"1u";;;
-24;"C28,C22,C25,C73,C50,C71";"C_0402_1005Metric";6;"10n";;;
-25;"R89,R85";"R_0402_1005Metric";2;"2R";;;
-26;"C94,C93";"C_1210_3225Metric";2;"22u";;;
-27;"R3,R133";"R_0603_1608Metric";2;"160R";;;
-28;"C39";"C_0805_2012Metric";1;"100n";;;
-29;"U3,U4,U5";"SOIC-8_3.9x4.9mm_P1.27mm";3;"TCAN330GD";;;
-30;"R114,R115";"R_0402_1005Metric";2;"5.1k";;;
-31;"R112";"R_0402_1005Metric";1;"40k";;;
-32;"D4,D3,D5";"SOT-23-3";3;"ESDCAN01-BLY";;;
-33;"R8,R6,R9,R4,R7,R5";"R_0402_1005Metric";6;"60R4";;;
-34;"C6,C21";"C_0603_1608Metric";2;"2.2u";;;
-35;"Y2";"ECS327ATQMVASTR";1;"ECS-327ATQMV-AS-TR";;;
-36;"U2";"Vishay_PowerPAK_MLP44-24L_ThermalVias";1;"SIC438B";;;
-37;"R16";"R_0603_1608Metric";1;"470R";;;
-38;"R97";"R_0805_2012Metric";1;"18k";;;
-39;"C35";"C_1812_4532Metric";1;"22u";;;
-40;"U13,U18,U8";"SOT-23-5_HandSoldering";3;"OPA333xxDBV";;;
-41;"R154,R157,R151,R142,R145,R146";"R_0201_0603Metric";6;"0R";;;
-42;"R168,R169";"R_0402_1005Metric";2;"2k";;;
-43;"R110,R111";"R_1206_3216Metric_Pad1.30x1.75mm_HandSolder";2;"220R";;;
-44;"C37";"C_1206_3216Metric_Pad1.33x1.80mm_HandSolder";1;"4.7u";;;
-45;"J4,J5";"PinHeader_1x02_P1.00mm_Vertical_SMD_Pin1Right";2;"Conn_01x02_Pin";;;
-46;"FB2,FB1";"L_0603_1608Metric_Pad1.05x0.95mm_HandSolder";2;"600R@100MHz";;;
-47;"RFB2";"C_0603_1608Metric";1;"10k";;;
-48;"Q15,Q1";"SOT-23_Handsoldering";2;"MMBTA06";;;
-49;"J1";"TE_1241434-1";1;"8-1241434-1";;;
-50;"BT1";"BatteryHolder_LINX_BAT-HLD-012-SMT";1;"CR1216";;;
-51;"U7";"SOT-23-5";1;"LM4030-2.5";;;
-52;"U1";"LQFP-100_14x14mm_P0.5mm";1;"STM32G473VETx";;;
-53;"R15";"R_0402_1005Metric";1;"1R";;;
-54;"D15";"D_SMA";1;"SS34";;;
-55;"R43";"R_0402_1005Metric";1;"2.2k";;;
-56;"L1";"IHLP4040DZER3R3M5A";1;"3.3u";;;
-57;"R33";"R_0402_1005Metric";1;"8.2k";;;
-58;"Q2";"SOT-23_Handsoldering";1;"BC807";;;
-59;"Y1";"ECS3225MVLC080CNTR";1;"ECS-3225MVLC-080-CN-TR";;;
-60;"D51,D19";"D_SOD-323";2;"1PS76SB21-QX";;;
-61;"RFB1";"C_0603_1608Metric";1;"73.2k";;;
-62;"R36";"R_0603_1608Metric";1;"2k";;;
-63;"R149,R148,R78,R135,R100,R143,R69,R134,R53,R58,R93,R99,R156,R70,R56,R91,R152,R14,R94,R20,R82,R71,R147,R98,R54,R101,R31,R150,R87,R155,R79,R77,R95,R153,R96,R52,R60,R144";"R_0402_1005Metric";38;"R_ANALOG";;;
-64;"R72,R81,R62,R44,R11,R51";"R_0402_1005Metric";6;"6.8k";;;
-65;"Q9,Q4,Q5,Q13,Q11,Q7";"SOT-23-3";6;"2N7002H";;;
-66;"C51,C55,C98,C54,C56,C20";"C_0402_1005Metric";6;"4.7u";;;
-67;"R120,R119";"R_0402_1005Metric";2;"24.9k";;;
-68;"D88,D55,D90,D95,D93,D97";"D_SOD-323F";6;"BAV19WS";;;
-69;"Q10,Q8,Q6,Q3,Q14,Q12";"TSOT-23";6;"MMFTP3401";;;
-70;"R17";"R_0402_1005Metric";1;"309k";;;
-71;"C19";"C_0805_2012Metric";1;"10u";;;
-72;"U6";"SOT-23-5";1;"XC6220B331MR";;;
-73;"R2";"R_0402_1005Metric";1;"150R";;;
-74;"R10";"R_0402_1005Metric";1;"499k";;;
-75;"R116,R34";"R_0805_2012Metric";2;"100m";;;
+Reference,Value,Datasheet,Do Not Place,Exclude from BOM,Exclude from Board,Exclude from Simulation,Manufacturer,Manufacturer Part Number,Description,Qty
++3V3,3.3V,,,Excluded from BOM,,,,,,1
++5V'1,+5V'2,5V,,,Excluded from BOM,,,,,,2
+GND1,GND,,,Excluded from BOM,,,,,,1
+H1,H2,H3,MountingHole_2.2mm_M2_Pad_TopBottom,,,Excluded from BOM,,,,,,3
+PGOOD1,PGOOD_SIC,,,Excluded from BOM,,,,,,1
+U14,OPA2333xxD,http://www.ti.com/lit/ds/symlink/opa333.pdf,,,,,,,Dual 1.8V, microPower, CMOS Operational Amplifiers, Zero-Drift Series, SOIC-8,1
+R1,R19,R23,R35,R46,R50,R55,R59,R64,R68,R74,R80,R83,R92,R113,R121,R122,R123,R124,R160,R166,R167,R170,10k,https://octopart.com/datasheet/panasonic/ERJPA2F1002X,https://www.vishay.com/docs/20036/dcrcwpe3.pdf,,,,,Panasonic,Vishay Siliconix,CRCW040210K0DHEDP,ERJPA2F1002X,10 kOhms ±0.5% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film,10 kOhms ±1% 0.2W, 1/5W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film,23
+D15,SS34,https://eu.mouser.com/datasheet/3/819/1/20190514101641.pdf,,,,,Comchip Technology,SS34-HF,Diode 40 V 3A Surface Mount DO-214AC (SMA),1
+D55,D88,D90,D93,D95,D97,BAV19WS,https://octopart.com/datasheet/diotec/BAV19WS,,,,,Diotec Semiconductor,BAV19WS-AQ,Diode 100 V 200mA Surface Mount SOD-323F,6
+Q1,Q15,MMBTA06,https://diotec.com/request/datasheet/mmbta06.pdf,,,,,Diotec Semiconductor,MMBTA06-AQ,Bipolar (BJT) Transistor NPN 80 V 500 mA 100MHz 250 mW Surface Mount SOT-23-3 (TO-236),2
+Q3,Q6,Q8,Q10,Q12,Q14,MMFTP3401,https://diotec.com/request/datasheet/mmftp3401.pdf,,,,,Diotec Semiconductor,MMFTP3401-AQ,P-Channel 30 V 4A (Ta) 1.4W (Ta) Surface Mount SOT-23-3 (TO-236),6
+Y1,ECS-3225MVLC-080-CN-TR,https://ecsxtal.com/store/pdf/ECS-3225MVLC.pdf,,,,,ECS International,ECS-3225MVLC-080-CN-TR,8 MHz XO (Standard) CMOS Oscillator 1.8V ~ 3.3V Enable/Disable 4-SMD, No Lead,1
+Y2,ECS-327ATQMV-AS-TR,https://www.ecsxtal.com/store/pdf/ECS-327ATQMV.pdf,,,,,ECS International,ECS-327ATQMV-AS-TR,Standard Clock Oscillators 32.768kHz HCMOS AEC-Q200 1.62-3.63V,1
+J2,J3,Conn_01x04_Pin,https://gct.co/files/specs/1.00mm-header-spec.pdf,,,,,GCT,BC032-04-A-2-0200-0200-L-B,Connector Header Surface Mount 4 position 0.039" (1.00mm),2
+J4,J5,Conn_01x02_Pin,https://gct.co/files/specs/1.00mm-header-spec.pdf,,,,,GCT,BC032-02-A-2-0200-0200-L-B,Connector Header Surface Mount 2 position 0.039" (1.00mm),2
+D2,D6,D92,D102,LED,https://optoelectronics.liteon.com/upload/download/DS22-2000-073/LTST-C170KGKT.pdf,,,,,Lite-On Inc.,LTST-C170KGKT,Green 571nm LED Indication - Discrete 2V 0805 (2012 Metric),4
+HSO1,HSO2,HSO3,HSO4,HSO5,HSO6,LED,https://optoelectronics.liteon.com/upload/download/DS22-2000-073/LTST-C170KGKT.pdf,,,,,Lite-On Inc.,LTST-C170KGKT,Green 571nm LED Indication - Discrete 2V 0805 (2012 Metric),6
+U17,24LC512-E/SN,http://ww1.microchip.com/downloads/en/DeviceDoc/21754M.pdf,,,,,Microchip Technology,24LC512-E/SN,EEPROM Memory IC 512Kbit I2C 400 kHz 900 ns 8-SOIC,1
+C1,C2,C7,C8,C9,C10,C14,C15,C16,C17,C18,C31,C32,C33,C36,C45,C53,C68,C70,C72,C74,C95,0.1u,https://octopart.com/datasheet/murata/GCG155R71C104KA01D,,,,,Murata Electronics,GCG155R71C104KA01D,0.1 µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric),22
+C4,C5,C11,C38,C42,C43,C44,C46,C47,C48,C49,C52,C57,C58,C59,C60,C61,C62,C63,C64,C65,C66,C67,C69,C75,C77,C78,C79,C80,C81,C82,C83,C84,C85,C86,C87,C88,C89,C96,C97,1u,https://octopart.com/datasheet/murata/GRM155R70J105KA12J,,,,,Murata Electronics,GRM155R70J105KA12J,1 µF ±10% 6.3V Ceramic Capacitor X7R 0402 (1005 Metric),40
+C6,C21,2.2u,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM188R70J225KE22-01.pdf,,,,,Murata Electronics,GCM188R70J225KE22D,2.2 µF ±10% 6.3V Ceramic Capacitor X7R 0603 (1608 Metric),2
+C12,C34,C76,0.1u,https://octopart.com/datasheet/murata/GCJ188R71H104KA12D,,,,,Murata Electronics,GCJ188R71H104KA12D,0.1 µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric),3
+C19,10u,https://octopart.com/datasheet/murata/GCJ21BR71A106KE01L,,,,,Murata Electronics,GCJ21BR71A106KE01L,10 µF ±10% 10V Ceramic Capacitor X7R 0805 (2012 Metric),1
+C20,C51,C54,C55,C56,C98,4.7u,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61E475KE11-01.pdf,,,,,Murata Electronics,GRM188R61E475KE11D ,4.7 µF ±10% 25V Ceramic Capacitor X5R 0603 (1608 Metric),6
+C22,C25,C28,C50,C71,C73,10n,https://octopart.com/datasheet/murata/GRT155R71E103KE01D,,,,,Murata Electronics,GRT155R71E103KE01D,10000 pF ±10% 25V Ceramic Capacitor X7R 0402 (1005 Metric),6
+C39,100n,https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM21BR71E104KA37-01.pdf,,,,,Murata Electronics,GCM21BR71E104KA37L,0.1 µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric),1
+Q4,Q5,Q7,Q9,Q11,Q13,2N7002H,https://octopart.com/datasheet/nexperia/2N7002HR,,,,,Nexperia,2N7002HR,0.21A Id, 60V Vds, N-Channel MOSFET, SOT-23,6
+D7,D8,D9,D10,D11,D12,D13,D14,D16,D17,D18,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D40,D41,D42,D43,D44,D45,BAT54SW,https://assets.nexperia.com/documents/data-sheet/BAT54SW-Q.pdf,,,,,Nexperia USA Inc.,BAT54SW-QF,Vr 30V, If 200mA, Dual schottky barrier diode, in series, SOT-323,36
+D19,D51,1PS76SB21-QX,https://octopart.com/datasheet/nexperia/1PS76SB21-QX,,,,,Nexperia USA Inc.,1PS76SB21-QX,Planar Schottky barrier diode with an integrated guard ring for stress protection, encapsulated in a very small SOD323 (SC-76) Surface-Mounted Device (SMD) plastic package.,2
+Q2,BC807,https://octopart.com/datasheet/nexperia/BC807,,,,,Nexperia USA Inc.,BC807,0.8A Ic, 45V Vce, PNP Transistor, SOT-23,1
+SW1,SW2,SW_Push,https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf,,,,,Omron Electronics Inc-EMC Div,B3U-1000P,Tactile Switch SPST-NO Top Actuated Surface Mount,2
+R2,150R,https://www.tme.eu/Document/85f1d81b610f60fedbcaf76ba20fe929/ERJ.pdf,,,,,Panasonic,ERJ2GEJ151X,Resistor: thick film; 0402; 150Ω; 100mW; ±5%; ERJ2GEJ; 200ppm/°C,1
+R3,R133,160R,https://www.tme.eu/Document/b2a838e0eb9288cb6261d5fb2bb4cd69/ERJ3E.pdf,,,,,Panasonic,ERJ3EKF1600V,Resistor: thick film; 0603; 160Ω; 100mW; ±1%; ERJ3EKF; 100ppm/°C,2
+R4,R5,R6,R7,R8,R9,60R4,https://octopart.com/datasheet/panasonic/ERA-2AEB60R4X,,,,,Panasonic,ERA-2AEB60R4X,SMD Chip Resistor, 60.4 ohm, ± 0.1%, 62.5 mW, 0402 [1005 Metric], Metal Film (Thin Film),6
+R14,R20,R31,R52,R53,R54,R56,R58,R60,R69,R70,R71,R77,R78,R79,R82,R87,R91,R93,R94,R95,R96,R98,R99,R100,R101,R134,R135,R143,R144,R147,R148,R149,R150,R152,R153,R155,R156,R_ANALOG,https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf,,,,,Panasonic,ERA-2VEB7501X,7.5 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Anti-Sulfur, Automotive AEC-Q200 Thin Film,38
+R112,40k,https://octopart.com/datasheet/panasonic/ERJ2RKF4022X,,,,,Panasonic,ERJ2RKF4022X,Res Thick Film 0402 40.2K Ohm 1% 0.1W(1/10W) ±100ppm/C Pad SMD T/R Automotive AEC-Q200,1
+R119,R120,24.9k,https://octopart.com/datasheet/panasonic/ERJ-2RKF2492X,,,,,Panasonic,ERJ-2RKF2492X,24.9 kOhms ±1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film,2
+R168,R169,2k,https://octopart.com/datasheet/panasonic/ERJ2GEJ202X,,,,,Panasonic,ERJ2GEJ202X,Res Thick Film 0402 2K Ohm 5% 0.1W(1/10W) ±200ppm/C Pad SMD T/R Automotive AEC-Q200,2
+C40,C41,47u,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/3774/CL32B476KPJNNWE_Spec.pdf,,,,,Samsung Electro-Mechanics,CL32B476KPJNNWE,47 µF ±10% 10V Ceramic Capacitor X7R 1210 (3225 Metric),2
+C93,C94,22u,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2113/CL32B226KAJNFNE_Spec.pdf,,,,,Samsung Electro-Mechanics,CL32B226KAJNFNE,22 µF ±10% 25V Ceramic Capacitor X7R 1210 (3225 Metric),2
+R36,2k,https://www.seielect.com/catalog/SEI-RNCF.pdf,,,,,Stackpole Electronics,RNCF0603DTE2K00,2 kOhms ±0.5% 0.167W, 1/6W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thin Film,1
+R97,18k,https://www.seielect.com/catalog/SEI-RNCF.pdf,,,,,Stackpole Electronics,RNCF0805DTE18K0 ,18 kOhms ±0.5% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film,1
+R90,15k,https://www.seielect.com/catalog/SEI-RNCF.pdf,,,,,Stackpole Electronics Inc,RNCF0402BTE15K0,15 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thin Film,1
+D1,D39,D46,D47,D49,D50,D52,D53,D54,D56,D57,D58,D59,D60,D61,D62,D63,D64,D65,D66,D67,D68,D69,D70,D71,D72,D73,D74,D75,D76,D77,D78,D79,D80,D81,D82,D83,D84,D85,D86,D87,D89,D91,D94,D96,D98,D99,D100,D101,D103,D104,D105,D106,D107,D108,ESDZL5-1F4,https://www.st.com/resource/en/datasheet/dm00360302.pdf,,,,,STM32,ESDZL5-1F4,10V Clamp 7A (8/20µs) Ipp Tvs Diode Surface Mount 0201,55
+D3,D4,D5,ESDCAN01-BLY,https://www.st.com/content/ccc/resource/technical/document/datasheet/bc/49/a4/52/df/2c/45/b4/DM00207446.pdf/files/DM00207446.pdf/jcr:content/translations/en.DM00207446.pdf,,,,,STM32,ESDCAN01-BLY,Automotive dual-line TVS in SOT23-3L for CAN bus 24 Vrm,3
+D48,SM6T33A/CA,https://www.st.com/resource/en/datasheet/sm6t.pdf,,,,,STMicroelectronics,SM6T33A/CA ,45.7V Clamp 13.1A Ipp Tvs Diode Surface Mount SMB,1
+U1,STM32G473VETx,https://www.st.com/resource/en/datasheet/stm32g473ve.pdf,,,,,STMicroelectronics,STM32G473VET6,STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 128KB RAM, 170 MHz, 1.71-3.6V, 86 GPIO, LQFP100,1
+FB1,FB2,600R@100MHz,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6383/FCM%20Series.pdf,,,,,TAI-TECH Advanced Electronics Co., Ltd.,FCM 1608KF-601T03,600 Ohms @ 100 MHz 1 Ferrite Bead 0603 (1608 Metric) 350mA 500mOhm,2
+C23,C24,C26,C27,C29,C30,100p,https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_hightemp_en.pdf,,,,,TDK,CGA2B2NP01H101J050BA,100 pF ±5% 50V Ceramic Capacitor C0G, NP0 0402 (1005 Metric),6
+C37,4.7u,https://product.tdk.com/en/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_soft_en.pdf,,,,,TDK,CGA5L3X7R1H475K160AE,4.7 µF ±10% 50V Ceramic Capacitor X7R 1206 (3216 Metric),1
+BT1,CR1216,https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=BAT-HLD-012-SMT&DocType=Data+Sheet&DocLang=English&DocFormat=pdf&PartCntxt=BAT-HLD-012-SMT,,,,,TE Connectivity,BAT-HLD-012-SMT,Battery Retainer Coin, 12.0mm 1 Cell SMD (SMT) Tab CR1216,1
+J1,8-1241434-1,https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1241434%7FC15%7Fpdf%7FEnglish%7FENG_CD_1241434_C15.pdf%7F8-1241434-1,,,,,TE Connectivity,8-1241434-1,PCB Mount Header, Horizontal, Wire-to-Board, 121 Position, 2.54 mm / 5.8 mm [.1 in / .228 in] Centerline, Fully Shrouded, Tin, Through Hole - Solder,1
+R12,R13,R130,100k,https://octopart.com/datasheet/te-connectivity/CRGP0402F100K,,,,,TE Connectivity,CRGP0402F100K,100 kOhms ±1% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film,3
+RFB1,73.2k,https://octopart.com/datasheet/te-connectivity/2-1879225-7,,,,,TE Connectivity,2-1879225-7,Res Thin Film 0603 73.2K Ohm 0.1% 1/16W ±25ppm/°C Molded SMD SMD Paper T/R,1
+R16,470R,https://octopart.com/datasheet/te-connectivity-amp/2176177-7,,,,,TE Connectivity AMP,CRGH0603F470R,470 Ohms ±1% 0.2W, 1/5W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film,1
+R32,R48,R57,R66,R76,R84,R165,1.5k,https://octopart.com/datasheet/te-connectivity-amp/3-2176244-9,,,,,TE Connectivity AMP,CRGS0805J1K5,Fixed Resistor, Thick Film, 0.5W, 1500ohm, 150V, 5% +/-Tol, 100ppm/Cel, Surface Mount, 0805,7
+R33,8.2k,https://octopart.com/datasheet/te-connectivity-amp/3-2176325-6,,,,,TE Connectivity AMP,CRGP0402F8K2,3-2176325-6 8.2 kOhms ±1% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film,1
+R43,R115,2.2k,https://octopart.com/datasheet/te-connectivity/CRGCQ0402F2K2,,,,,TE Connectivity AMP,CRGCQ0402F2K2,2.2 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film,2
+RFB2,10k,https://octopart.com/datasheet/te-connectivity/9-2176306-1,,,,,TE Connectivity AMP,RP73PF1E10KBTD,10 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Thin Film,1
+U3,U4,U5,TCAN330GD,http://www.ti.com/lit/ds/symlink/tcan337.pdf,,,,,Texas Instruments,TCAN330GD,High-Speed CAN Transceiver with CAN FD, 5Mbps, 3.3V supply, silent mode, shutdown mode, SOT-23-8/SOIC-8,3
+U7,LM4030-2.5,http://www.ti.com/lit/ds/symlink/lm4030.pdf,,,,,Texas Instruments,LM4030BMF-2.5/NOPB,2.500V Ultra-High Precision Shunt Voltage Reference, SOT-23-5,1
+U8,U13,U18,OPA333xxDBV,http://www.ti.com/lit/ds/symlink/opa333.pdf,,,,,Texas Instruments,OPA333AQDBVRQ1,Single 1.8V, microPower, CMOS Operational Amplifiers, Zero-Drift Series, SOT-23-5,3
+U9,U10,U11,U12,U15,74LVC1G17,https://www.ti.com/lit/ds/symlink/sn74lvc1g17-q1.pdf,,,,,Texas Instruments,SN74LVC1G17QDBVRQ1,Automotive single 1.65-V to 6.5-V buffer with Schmitt-Trigger inputs,5
+U6,XC6220B331MR,https://www.torexsemi.com/file/xc6220/XC6220.pdf,,,,,TOREX SEMICONDUCTOR LTD.,XC6220B331MR,1A, Low Drop-out Voltage Regulator, Fixed Output 3.3V, SOT-23-5,1
+L1,3.3u,https://www.vishay.com/docs/34315/ihlp-4040dz-5a.pdf,,,,,Vishay Siliconix,IHLP4040DZER3R3M5A,3.3 µH Shielded Molded Inductor 11 A 11.81mOhm Max Nonstandard,1
+R10,499k,https://octopart.com/datasheet/vishay/RCS0402499KFKED,,,,,Vishay Siliconix,RCS0402499KFKED,499 kOhms ±1% 0.333W, 1/3W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film,1
+R11,R44,R51,R62,R72,R81,6.8k,https://octopart.com/datasheet/vishay/CRCW04026K80JNEDHP,,,,,Vishay Siliconix,CRCW04026K80JNEDHP ,6.8 kOhms ±5% 0.2W, 1/5W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film,6
+R15,1R,https://www.vishay.com/docs/20035/dcrcwe3.pdf,,,,,Vishay Siliconix,CRCW04021R00FKED,1 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film,1
+R17,309k,https://octopart.com/datasheet/vishay/CRCW0402309KFKEE,,,,,Vishay Siliconix,CRCW0402309KFKEE,309 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film,1
+R18,562k,https://octopart.com/datasheet/vishay/RCS0402499KFKED,,,,,Vishay Siliconix,RCS0402562KFKED,562 kOhms ±1% 0.333W, 1/3W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film,1
+R21,R25,R27,R29,R47,R49,R61,R63,R65,R67,R73,R75,R86,R88,R125,R128,R131,R137,R140,R158,R_DIG_1,https://octopart.com/datasheet/vishay/RCS040215K0FKED,,,,,Vishay Siliconix,RCS040210K0FKED,10 kOhms ±1% 0.333W, 1/3W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film,20
+R22,R24,R26,R28,R30,R45,R102,R103,R104,R105,R106,R107,R108,R109,R126,R129,R132,R138,R141,R159,R_DIG_2,https://octopart.com/datasheet/vishay/RCS040215K0FKED,,,,,Vishay Siliconix,RCS040215K0FKED,15 kOhms ±1% 0.333W, 1/3W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film,20
+R34,100R,https://www.vishay.com/docs/20066/rcce3.pdf,,,,,Vishay Siliconix,RCC0805100RFKEA,100 Ohms ±1% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film,1
+R85,R89,2R,https://www.vishay.com/docs/20035/dcrcwe3.pdf,,,,,Vishay Siliconix,CRCW04022R00FKED,2 Ohms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film,2
+R110,R111,220R,https://www.vishay.com/docs/20035/dcrcwe3.pdf,,,,,Vishay Siliconix,CRCW1206220RJNEA ,220 Ohms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film,2
+R114,5.1k,https://octopart.com/datasheet/vishay/RCS06035K10FKEA,,,,,Vishay Siliconix,RCS04025K10FKED,5.1 kOhms ±1% 0.333W, 1/3W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film,1
+R136,R139,5.1k,https://octopart.com/datasheet/vishay/RCS06035K10FKEA,,,,,Vishay Siliconix,RCS06035K10FKEA,Res Thick Film 0603 5.1K Ohm 1% 0.25W(1/4W) ±100ppm/C Pad SMD T/R Automotive AEC-Q200 Medical,2
+U2,SIC438B,https://www.vishay.com/docs/75921/sic437.pdf,,,,,Vishay Siliconix,SIC438BED-T1-GE3 ,8A Step-Down DC/DC-Regulator, 300kHz-1MHz, 3..24Vin, 0.6..21.6Vout,1
+C35,22u,https://octopart.com/datasheet/kemet/C1812C475K5RACTU,,,,,YAGEO,C1812C475K5RACTU,4.7 µF ±10% 50V Ceramic Capacitor X7R 1812 (4532 Metric),1
+R37,R38,R39,R40,R41,R42,R117,R118,1k,https://yageogroup.com/content/datasheet/asset/file/PYU-AC_51_ROHS_L,,,,,YAGEO,AC0402JR-7W1KL,1 kOhms ±5% 0.125W, 1/8W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film,8
+R116,10R,https://yageogroup.com/content/datasheet/asset/file/PYU-AC_51_ROHS_L,,,,,YAGEO,AC0805FR-7W10RL,10 Ohms ±1% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film,1
+R142,R145,R146,R151,R154,R157,0R,https://yageogroup.com/content/Resource%20Library/Datasheet/PYU-AF_51_ROHS_L.pdf,,,,,YAGEO,AF0201JR-070RL,0 Ohms Jumper Chip Resistor 0201 (0603 Metric) Anti-Sulfur, Automotive AEC-Q200 Thick Film,6

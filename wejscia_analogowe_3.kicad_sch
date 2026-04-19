@@ -3282,7 +3282,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://octopart.com/datasheet/te-connectivity-amp/2176312-9"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf"
 			(at 113.03 133.35 0)
 			(effects
 				(font
@@ -3291,7 +3291,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "15 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Thin Film"
+		(property "Description" "7.5 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Anti-Sulfur, Automotive AEC-Q200 Thin Film"
 			(at 113.03 133.35 0)
 			(effects
 				(font
@@ -3300,7 +3300,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TE Connectivity AMP"
+		(property "Manufacturer" "Panasonic"
 			(at 113.03 133.35 0)
 			(effects
 				(font
@@ -3309,7 +3309,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "RP73PF1E15KBTDF"
+		(property "Manufacturer Part Number" "ERA-2VEB7501X"
 			(at 113.03 133.35 0)
 			(effects
 				(font
@@ -3470,7 +3470,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://octopart.com/datasheet/te-connectivity-amp/2176312-9"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf"
 			(at 57.15 91.44 0)
 			(effects
 				(font
@@ -3479,7 +3479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "15 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Thin Film"
+		(property "Description" "7.5 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Anti-Sulfur, Automotive AEC-Q200 Thin Film"
 			(at 57.15 91.44 0)
 			(effects
 				(font
@@ -3488,7 +3488,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TE Connectivity AMP"
+		(property "Manufacturer" "Panasonic"
 			(at 57.15 91.44 0)
 			(effects
 				(font
@@ -3497,7 +3497,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "RP73PF1E15KBTDF"
+		(property "Manufacturer Part Number" "ERA-2VEB7501X"
 			(at 57.15 91.44 0)
 			(effects
 				(font
@@ -3592,7 +3592,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://octopart.com/datasheet/te-connectivity-amp/2176312-9"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf"
 			(at 53.34 39.37 0)
 			(effects
 				(font
@@ -3601,7 +3601,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "15 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Thin Film"
+		(property "Description" "7.5 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Anti-Sulfur, Automotive AEC-Q200 Thin Film"
 			(at 53.34 39.37 0)
 			(effects
 				(font
@@ -3610,7 +3610,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TE Connectivity AMP"
+		(property "Manufacturer" "Panasonic"
 			(at 53.34 39.37 0)
 			(effects
 				(font
@@ -3619,7 +3619,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "RP73PF1E15KBTDF"
+		(property "Manufacturer Part Number" "ERA-2VEB7501X"
 			(at 53.34 39.37 0)
 			(effects
 				(font
@@ -3846,7 +3846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://octopart.com/datasheet/te-connectivity-amp/2176312-9"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf"
 			(at 179.07 90.17 0)
 			(effects
 				(font
@@ -3855,7 +3855,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "15 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Thin Film"
+		(property "Description" "7.5 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Anti-Sulfur, Automotive AEC-Q200 Thin Film"
 			(at 179.07 90.17 0)
 			(effects
 				(font
@@ -3864,7 +3864,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TE Connectivity AMP"
+		(property "Manufacturer" "Panasonic"
 			(at 179.07 90.17 0)
 			(effects
 				(font
@@ -3873,7 +3873,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "RP73PF1E15KBTDF"
+		(property "Manufacturer Part Number" "ERA-2VEB7501X"
 			(at 179.07 90.17 0)
 			(effects
 				(font
@@ -3970,7 +3970,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://octopart.com/datasheet/te-connectivity-amp/2176312-9"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf"
 			(at 59.69 46.99 0)
 			(effects
 				(font
@@ -3979,7 +3979,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "15 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Thin Film"
+		(property "Description" "7.5 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Anti-Sulfur, Automotive AEC-Q200 Thin Film"
 			(at 59.69 46.99 0)
 			(effects
 				(font
@@ -3988,7 +3988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TE Connectivity AMP"
+		(property "Manufacturer" "Panasonic"
 			(at 59.69 46.99 0)
 			(effects
 				(font
@@ -3997,7 +3997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "RP73PF1E15KBTDF"
+		(property "Manufacturer Part Number" "ERA-2VEB7501X"
 			(at 59.69 46.99 0)
 			(effects
 				(font
@@ -4795,7 +4795,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://octopart.com/datasheet/te-connectivity-amp/2176312-9"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf"
 			(at 156.21 39.37 0)
 			(effects
 				(font
@@ -4804,7 +4804,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "15 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Thin Film"
+		(property "Description" "7.5 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Anti-Sulfur, Automotive AEC-Q200 Thin Film"
 			(at 156.21 39.37 0)
 			(effects
 				(font
@@ -4813,7 +4813,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TE Connectivity AMP"
+		(property "Manufacturer" "Panasonic"
 			(at 156.21 39.37 0)
 			(effects
 				(font
@@ -4822,7 +4822,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "RP73PF1E15KBTDF"
+		(property "Manufacturer Part Number" "ERA-2VEB7501X"
 			(at 156.21 39.37 0)
 			(effects
 				(font
@@ -4985,7 +4985,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://octopart.com/datasheet/te-connectivity-amp/2176312-9"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf"
 			(at 185.42 96.52 0)
 			(effects
 				(font
@@ -4994,7 +4994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "15 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Thin Film"
+		(property "Description" "7.5 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Anti-Sulfur, Automotive AEC-Q200 Thin Film"
 			(at 185.42 96.52 0)
 			(effects
 				(font
@@ -5003,7 +5003,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TE Connectivity AMP"
+		(property "Manufacturer" "Panasonic"
 			(at 185.42 96.52 0)
 			(effects
 				(font
@@ -5012,7 +5012,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "RP73PF1E15KBTDF"
+		(property "Manufacturer Part Number" "ERA-2VEB7501X"
 			(at 185.42 96.52 0)
 			(effects
 				(font
@@ -5233,7 +5233,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://octopart.com/datasheet/te-connectivity-amp/2176312-9"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf"
 			(at 63.5 97.79 0)
 			(effects
 				(font
@@ -5242,7 +5242,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "15 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Thin Film"
+		(property "Description" "7.5 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Anti-Sulfur, Automotive AEC-Q200 Thin Film"
 			(at 63.5 97.79 0)
 			(effects
 				(font
@@ -5251,7 +5251,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TE Connectivity AMP"
+		(property "Manufacturer" "Panasonic"
 			(at 63.5 97.79 0)
 			(effects
 				(font
@@ -5260,7 +5260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "RP73PF1E15KBTDF"
+		(property "Manufacturer Part Number" "ERA-2VEB7501X"
 			(at 63.5 97.79 0)
 			(effects
 				(font
@@ -5357,7 +5357,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://octopart.com/datasheet/te-connectivity-amp/2176312-9"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf"
 			(at 119.38 139.7 0)
 			(effects
 				(font
@@ -5366,7 +5366,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "15 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Thin Film"
+		(property "Description" "7.5 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Anti-Sulfur, Automotive AEC-Q200 Thin Film"
 			(at 119.38 139.7 0)
 			(effects
 				(font
@@ -5375,7 +5375,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TE Connectivity AMP"
+		(property "Manufacturer" "Panasonic"
 			(at 119.38 139.7 0)
 			(effects
 				(font
@@ -5384,7 +5384,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "RP73PF1E15KBTDF"
+		(property "Manufacturer Part Number" "ERA-2VEB7501X"
 			(at 119.38 139.7 0)
 			(effects
 				(font
@@ -6060,7 +6060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://octopart.com/datasheet/te-connectivity-amp/2176312-9"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf"
 			(at 162.56 45.72 0)
 			(effects
 				(font
@@ -6069,7 +6069,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "15 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Thin Film"
+		(property "Description" "7.5 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0402 (1005 Metric) Anti-Sulfur, Automotive AEC-Q200 Thin Film"
 			(at 162.56 45.72 0)
 			(effects
 				(font
@@ -6078,7 +6078,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TE Connectivity AMP"
+		(property "Manufacturer" "Panasonic"
 			(at 162.56 45.72 0)
 			(effects
 				(font
@@ -6087,7 +6087,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "RP73PF1E15KBTDF"
+		(property "Manufacturer Part Number" "ERA-2VEB7501X"
 			(at 162.56 45.72 0)
 			(effects
 				(font
