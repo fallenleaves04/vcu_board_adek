@@ -1,2 +1,16 @@
 \chapter{Ogólna charakterystyka układu}\label{chap:glowne_cechy}
+Główne cechy układu:
+\begin{itemize}
+	\item 4 warstwy miedzi (dół i góra -- ścieżki sygnałowe typu "microstrip", pierwszy z góry w całości zalany miedzią, drugi z góry zajęty przez obszary zasilania i uziemienia),
+	\item mikrokontroler STM32G474VET6 (LQFP100, 512KB Flash, 128KB SRAM),
+	\item oscylatory HSE 8 MHz i LSE 32.678 kHz,
+	\item zasilanie z baterii 24V: układ posiada dwie struktury zasilania, 5V i 3V3, z których pierwsza może być wykorzystana na głównym złączu do zasilania czujników,
+	\item układ monitorowania pętli HVIL z pomiarem potencjałów na początku i końcu pętli oraz pomiarem prądu w pętli,
+	\item 19 wejść analogowych + 1 wejście pomiaru napięcia baterii LV 24V + 3 układy analogowe pomiaru napięć pętli HVIL i prądu pętli,
+	\item 15 wejść cyfrowych,
+	\item 6 wyjść typu HSO (ang. high-side output), z których dwa są wyposażone w PWM,
+	\item wyprowadzenia do programatora ST-Link na głównym złączu,
+	\item pamięć EEPROM o pojemności 8 Mbit, obsługiwana poprzez komunikację I2C,
+	\item bateria CR1216 dla zegaru RTC.
+\end{itemize}
 

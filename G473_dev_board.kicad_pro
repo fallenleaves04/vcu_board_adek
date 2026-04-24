@@ -123,7 +123,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.12,
+        "min_clearance": 0.149,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.2,
         "min_groove_width": 0.0,
@@ -250,6 +250,10 @@
           "drill": 0.381
         },
         {
+          "diameter": 1.6256,
+          "drill": 1.27
+        },
+        {
           "diameter": 2.54,
           "drill": 2.032
         }
@@ -260,8 +264,8 @@
       "dist": "",
       "distpn": "",
       "internal_id": "",
-      "mfg": "",
-      "mpn": ""
+      "mfg": "Manufacturer",
+      "mpn": "Manufacturer Part Number"
     },
     "layer_pairs": [],
     "layer_presets": [],

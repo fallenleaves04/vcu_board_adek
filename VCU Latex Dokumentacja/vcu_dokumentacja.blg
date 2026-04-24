@@ -1,9 +1,9 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'vcu_dokumentacja.blg'
-[92] biber-MSWIN64:342> INFO - === 
-[116] Biber.pm:421> INFO - Reading 'vcu_dokumentacja.bcf'
-[276] Biber.pm:1002> INFO - Found 0 citekeys in bib section 0
-[312] bbl.pm:676> INFO - Writing 'vcu_dokumentacja.bbl' with encoding 'UTF-8'
-[313] bbl.pm:779> INFO - Output to vcu_dokumentacja.bbl
-[313] Biber.pm:132> WARN - The file 'vcu_dokumentacja.bcf' does not contain any citations!
-[313] Biber.pm:134> INFO - WARNINGS: 1
+[104] biber-MSWIN64:342> INFO - === 
+[128] Biber.pm:421> INFO - Reading 'vcu_dokumentacja.bcf'
+[291] Biber.pm:1002> INFO - Found 0 citekeys in bib section 0
+[329] bbl.pm:676> INFO - Writing 'vcu_dokumentacja.bbl' with encoding 'UTF-8'
+[329] bbl.pm:779> INFO - Output to vcu_dokumentacja.bbl
+[330] Biber.pm:132> WARN - The file 'vcu_dokumentacja.bcf' does not contain any citations!
+[330] Biber.pm:134> INFO - WARNINGS: 1

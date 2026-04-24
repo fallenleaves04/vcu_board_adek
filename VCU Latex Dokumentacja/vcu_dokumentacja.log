@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.4.2)  18 APR 2026 16:39
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.2) (preloaded format=xelatex 2026.4.2)  23 APR 2026 23:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1134,7 +1134,37 @@ Package color Info: Driver file: xetex.def on input line 149.
 \everycr=\toks48
 \minrowclearance=\skip113
 \rownum=\count518
-) (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+) (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen276
+\TX@old@table=\dimen277
+\TX@old@col=\dimen278
+\TX@target=\dimen279
+\TX@delta=\dimen280
+\TX@cols=\count519
+\TX@ftn=\toks49
+)
+(C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen281
+\lightrulewidth=\dimen282
+\cmidrulewidth=\dimen283
+\belowrulesep=\dimen284
+\belowbottomsep=\dimen285
+\aboverulesep=\dimen286
+\abovetopsep=\dimen287
+\cmidrulesep=\dimen288
+\cmidrulekern=\dimen289
+\defaultaddspace=\dimen290
+\@cmidla=\count520
+\@cmidlb=\count521
+\@aboverulesep=\dimen291
+\@belowrulesep=\dimen292
+\@thisruleclass=\count522
+\@lastruleclass=\count523
+\@thisrulewidth=\dimen293
+)
+(C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
 
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
@@ -1158,25 +1188,25 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 ) (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ) (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count519
+\lst@mode=\count524
 \lst@gtempboxa=\box117
-\lst@token=\toks49
-\lst@length=\count520
-\lst@currlwidth=\dimen276
-\lst@column=\count521
-\lst@pos=\count522
-\lst@lostspace=\dimen277
-\lst@width=\dimen278
-\lst@newlines=\count523
-\lst@lineno=\count524
-\lst@maxwidth=\dimen279
+\lst@token=\toks50
+\lst@length=\count525
+\lst@currlwidth=\dimen294
+\lst@column=\count526
+\lst@pos=\count527
+\lst@lostspace=\dimen295
+\lst@width=\dimen296
+\lst@newlines=\count528
+\lst@lineno=\count529
+\lst@maxwidth=\dimen297
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
 File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
 )
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
-\c@lstnumber=\count525
-\lst@skipnumbers=\count526
+\c@lstnumber=\count530
+\lst@skipnumbers=\count531
 \lst@framebox=\box118
 )
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
@@ -1195,8 +1225,8 @@ rtcuts
 
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
-\xs_counta=\count527
-\xs_countb=\count528
+\xs_counta=\count532
+\xs_countb=\count533
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 )
@@ -1207,9 +1237,9 @@ sty
 y
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -common.tex
-\pgfutil@everybye=\toks50
-\pgfutil@tempdima=\dimen280
-\pgfutil@tempdimb=\dimen281
+\pgfutil@everybye=\toks51
+\pgfutil@tempdima=\dimen298
+\pgfutil@tempdimb=\dimen299
 )
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -latex.def
@@ -1232,33 +1262,33 @@ Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 .code.tex
-\pgfkeys@pathtoks=\toks51
-\pgfkeys@temptoks=\toks52
+\pgfkeys@pathtoks=\toks52
+\pgfkeys@temptoks=\toks53
 
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 libraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks53
+\pgfkeys@tmptoks=\toks54
 ))
-\pgf@x=\dimen282
-\pgf@y=\dimen283
-\pgf@xa=\dimen284
-\pgf@ya=\dimen285
-\pgf@xb=\dimen286
-\pgf@yb=\dimen287
-\pgf@xc=\dimen288
-\pgf@yc=\dimen289
-\pgf@xd=\dimen290
-\pgf@yd=\dimen291
+\pgf@x=\dimen300
+\pgf@y=\dimen301
+\pgf@xa=\dimen302
+\pgf@ya=\dimen303
+\pgf@xb=\dimen304
+\pgf@yb=\dimen305
+\pgf@xc=\dimen306
+\pgf@yc=\dimen307
+\pgf@xd=\dimen308
+\pgf@yd=\dimen309
 \w@pgf@writea=\write8
 \r@pgf@reada=\read3
-\c@pgf@counta=\count529
-\c@pgf@countb=\count530
-\c@pgf@countc=\count531
-\c@pgf@countd=\count532
-\t@pgf@toka=\toks54
-\t@pgf@tokb=\toks55
-\t@pgf@tokc=\toks56
-\pgf@sys@id@count=\count533
+\c@pgf@counta=\count534
+\c@pgf@countb=\count535
+\c@pgf@countc=\count536
+\c@pgf@countd=\count537
+\t@pgf@toka=\toks55
+\t@pgf@tokb=\toks56
+\t@pgf@tokc=\toks57
+\pgf@sys@id@count=\count538
 
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
 fg
@@ -1278,13 +1308,13 @@ File: pgfsys-dvipdfmx.def 2025-08-29 v3.1.11a (3.1.11a)
 s-common-pdf.def
 File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
 )
-\pgfsys@objnum=\count534
+\pgfsys@objnum=\count539
 )))
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 ssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfsyssoftpath@smallbuffer@items=\count535
-\pgfsyssoftpath@bigbuffer@items=\count536
+\pgfsyssoftpath@smallbuffer@items=\count540
+\pgfsyssoftpath@bigbuffer@items=\count541
 )
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 sprotocol.code.tex
@@ -1300,12 +1330,12 @@ Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
 code.tex)
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
 r.code.tex
-\pgfmath@dimen=\dimen292
-\pgfmath@count=\count537
+\pgfmath@dimen=\dimen310
+\pgfmath@count=\count542
 \pgfmath@box=\box120
-\pgfmath@toks=\toks57
-\pgfmath@stack@operand=\toks58
-\pgfmath@stack@operation=\toks59
+\pgfmath@toks=\toks58
+\pgfmath@stack@operand=\toks59
+\pgfmath@stack@operation=\toks60
 )
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.code.tex)
@@ -1329,39 +1359,39 @@ ions.integerarithmetics.code.tex)
 code.tex)
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
 .code.tex
-\c@pgfmathroundto@lastzeros=\count538
+\c@pgfmathroundto@lastzeros=\count543
 ))
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
 tex)
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epoints.code.tex
 File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@picminx=\dimen293
-\pgf@picmaxx=\dimen294
-\pgf@picminy=\dimen295
-\pgf@picmaxy=\dimen296
-\pgf@pathminx=\dimen297
-\pgf@pathmaxx=\dimen298
-\pgf@pathminy=\dimen299
-\pgf@pathmaxy=\dimen300
-\pgf@xx=\dimen301
-\pgf@xy=\dimen302
-\pgf@yx=\dimen303
-\pgf@yy=\dimen304
-\pgf@zx=\dimen305
-\pgf@zy=\dimen306
+\pgf@picminx=\dimen311
+\pgf@picmaxx=\dimen312
+\pgf@picminy=\dimen313
+\pgf@picmaxy=\dimen314
+\pgf@pathminx=\dimen315
+\pgf@pathmaxx=\dimen316
+\pgf@pathminy=\dimen317
+\pgf@pathmaxy=\dimen318
+\pgf@xx=\dimen319
+\pgf@xy=\dimen320
+\pgf@yx=\dimen321
+\pgf@yy=\dimen322
+\pgf@zx=\dimen323
+\pgf@zy=\dimen324
 )
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@path@lastx=\dimen307
-\pgf@path@lasty=\dimen308
+\pgf@path@lastx=\dimen325
+\pgf@path@lasty=\dimen326
 )
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epathusage.code.tex
 File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@shorten@end@additional=\dimen309
-\pgf@shorten@start@additional=\dimen310
+\pgf@shorten@end@additional=\dimen327
+\pgf@shorten@start@additional=\dimen328
 )
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 escopes.code.tex
@@ -1369,19 +1399,19 @@ File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfpic=\box121
 \pgf@hbox=\box122
 \pgf@layerbox@main=\box123
-\pgf@picture@serial@count=\count539
+\pgf@picture@serial@count=\count544
 )
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 egraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgflinewidth=\dimen311
+\pgflinewidth=\dimen329
 )
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 etransformations.code.tex
 File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@pt@x=\dimen312
-\pgf@pt@y=\dimen313
-\pgf@pt@temp=\dimen314
+\pgf@pt@x=\dimen330
+\pgf@pt@y=\dimen331
+\pgf@pt@temp=\dimen332
 )
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 equick.code.tex
@@ -1398,14 +1428,14 @@ File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 earrows.code.tex
 File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfarrowsep=\dimen315
+\pgfarrowsep=\dimen333
 )
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eshade.code.tex
 File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@max=\dimen316
-\pgf@sys@shading@range@num=\count540
-\pgf@shadingcount=\count541
+\pgf@max=\dimen334
+\pgf@sys@shading@range@num=\count545
+\pgf@shadingcount=\count546
 )
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eimage.code.tex
@@ -1444,8 +1474,8 @@ File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
 mp-version-0-65.sty
 Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@nodesepstart=\dimen317
-\pgf@nodesepend=\dimen318
+\pgf@nodesepstart=\dimen335
+\pgf@nodesepend=\dimen336
 )
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
 mp-version-1-18.sty
@@ -1463,10 +1493,10 @@ ty
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
 code.tex
 Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
-\pgffor@iter=\dimen319
-\pgffor@skip=\dimen320
-\pgffor@stack=\toks60
-\pgffor@toks=\toks61
+\pgffor@iter=\dimen337
+\pgffor@skip=\dimen338
+\pgffor@stack=\toks61
+\pgffor@toks=\toks62
 ))
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z\tikz.code.tex
@@ -1475,34 +1505,34 @@ Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
 aryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@plot@mark@count=\count542
-\pgfplotmarksize=\dimen321
+\pgf@plot@mark@count=\count547
+\pgfplotmarksize=\dimen339
 )
-\tikz@lastx=\dimen322
-\tikz@lasty=\dimen323
-\tikz@lastxsaved=\dimen324
-\tikz@lastysaved=\dimen325
-\tikz@lastmovetox=\dimen326
-\tikz@lastmovetoy=\dimen327
-\tikzleveldistance=\dimen328
-\tikzsiblingdistance=\dimen329
+\tikz@lastx=\dimen340
+\tikz@lasty=\dimen341
+\tikz@lastxsaved=\dimen342
+\tikz@lastysaved=\dimen343
+\tikz@lastmovetox=\dimen344
+\tikz@lastmovetoy=\dimen345
+\tikzleveldistance=\dimen346
+\tikzsiblingdistance=\dimen347
 \tikz@figbox=\box126
 \tikz@figbox@bg=\box127
 \tikz@tempbox=\box128
 \tikz@tempbox@bg=\box129
-\tikztreelevel=\count543
-\tikznumberofchildren=\count544
-\tikznumberofcurrentchild=\count545
-\tikz@fig@count=\count546
+\tikztreelevel=\count548
+\tikznumberofchildren=\count549
+\tikznumberofcurrentchild=\count550
+\tikz@fig@count=\count551
 
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
 matrix.code.tex
 File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfmatrixcurrentrow=\count547
-\pgfmatrixcurrentcolumn=\count548
-\pgf@matrix@numberofcolumns=\count549
+\pgfmatrixcurrentrow=\count552
+\pgfmatrixcurrentcolumn=\count553
+\pgf@matrix@numberofcolumns=\count554
 )
-\tikz@expandcount=\count550
+\tikz@expandcount=\count555
 
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibrarytopaths.code.tex
@@ -1546,48 +1576,48 @@ ty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \collectedbox=\box130
 )
-\tc@llx=\dimen330
-\tc@lly=\dimen331
-\tc@urx=\dimen332
-\tc@ury=\dimen333
+\tc@llx=\dimen348
+\tc@lly=\dimen349
+\tc@urx=\dimen350
+\tc@ury=\dimen351
 Package trimclip Info: Using driver 'tc-xetex.def'.
 
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-xetex.def
 File: tc-xetex.def 2019/01/04 v2.2 Clipping driver for xetex
 ))
-\adjbox@Width=\dimen334
-\adjbox@Height=\dimen335
-\adjbox@Depth=\dimen336
-\adjbox@Totalheight=\dimen337
-\adjbox@pwidth=\dimen338
-\adjbox@pheight=\dimen339
-\adjbox@pdepth=\dimen340
-\adjbox@ptotalheight=\dimen341
+\adjbox@Width=\dimen352
+\adjbox@Height=\dimen353
+\adjbox@Depth=\dimen354
+\adjbox@Totalheight=\dimen355
+\adjbox@pwidth=\dimen356
+\adjbox@pheight=\dimen357
+\adjbox@pdepth=\dimen358
+\adjbox@ptotalheight=\dimen359
 
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
-\c@checkoddpage=\count551
+\c@checkoddpage=\count556
 ) (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box131
-\sift@deathcycles=\count552
-\@vwid@loff=\dimen342
-\@vwid@roff=\dimen343
+\sift@deathcycles=\count557
+\@vwid@loff=\dimen360
+\@vwid@roff=\dimen361
 )
 ==> First Aid for varwidth.sty applied!
 ) (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.sty
 Package: relsize 2013/03/29 ver 4.1
 )
-\l__twmk_indris_int=\count553
-\c@tw@hyphen@char@num=\count554
+\l__twmk_indris_int=\count558
+\c@tw@hyphen@char@num=\count559
 ) (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip114
-\enit@outerparindent=\dimen344
-\enit@toks=\toks62
+\enit@outerparindent=\dimen362
+\enit@toks=\toks63
 \enit@inbox=\box132
-\enit@count@id=\count555
-\enitdp@description=\count556
+\enit@count@id=\count560
+\enitdp@description=\count561
 )
 \docparskip=\skip115
 )
@@ -1613,26 +1643,26 @@ Package fontspec Info:
  (vcu_dokumentacja.aux)
 \openout1 = `vcu_dokumentacja.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1693,7 +1723,7 @@ Package biblatex Info: ... file 'latin.lbx' not found.
 
 
 Package biblatex Warning: Language 'latin' not supported.
-(biblatex)                Using dummy definitions on input line 20.
+(biblatex)                Using dummy definitions on input line 14.
 
 Package biblatex Info: Trying to load language 'polish'...
 Package biblatex Info: ... file 'polish.lbx' found.
@@ -1710,18 +1740,18 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'vcu_dokumentacja.bbl' found.
  (vcu_dokumentacja.bbl)
-Package biblatex Info: Reference section=0 on input line 20.
-Package biblatex Info: Reference segment=0 on input line 20.
+Package biblatex Info: Reference section=0 on input line 14.
+Package biblatex Info: Reference segment=0 on input line 14.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 20.
+Package hyperref Info: Link coloring ON on input line 14.
  (vcu_dokumentacja.out) (vcu_dokumentacja.out)
 \@outlinefile=\write9
 \openout9 = `vcu_dokumentacja.out'.
 
-\c@lstlisting=\count557
+\c@lstlisting=\count562
 File: gfx/adek_navy.png Graphic file (type bmp)
 <gfx/adek_navy.png>
  [1
@@ -1734,73 +1764,43 @@ File: gfx/adek_navy.png Graphic file (type bmp)
 
 ]
 Rozdział 1.
-) (tekst/2_wyprowadzenia.tex [3] [4
-
-]
-Rozdział 2.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
 
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+esint on input line 8
+LaTeX Font Info:    Trying to load font information for U+esint on input line 4
 .
 
 (C:\Users\fbiwa\AppData\Local\Programs\MiKTeX\tex/latex/esint\uesint.fd
 File: uesint.fd 
-)
-! Undefined control sequence.
-l.9 ^^I^^I\toprule
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+))
+(tekst/2_wyprowadzenia.tex [3] [4
 
-! Extra alignment tab has been changed to \cr.
-<template> \endtemplate 
-                        
-l.13 ^^I^^I\multicolumn{2}{c}{\textbf{Funkcja}}
-                                                &
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
+]
+Rozdział 2.
 
-! Undefined control sequence.
-<recently read> \midrule 
-                         
-l.15 ^^I^^I\midrule
-                   
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Overfull \hbox (95.14653pt too wide) in paragraph at lines 8--23
+ [][] 
+ []
 
-! Undefined control sequence.
-l.17 ^^I^^I\bottomrule
-                      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+) (tekst/3_opis_funkcji.tex [5] [6
 
-) (tekst/3_opis_funkcji.tex) [5] [6
-
-] (vcu_dokumentacja.lof)
+]
+Rozdział 3.
+) [7] [8] (vcu_dokumentacja.lof)
 \tf@lof=\write10
 \openout10 = `vcu_dokumentacja.lof'.
 
- [7] [8
+ [9
 
-]
-(vcu_dokumentacja.lot)
+] [10
+
+] (vcu_dokumentacja.lot)
 \tf@lot=\write11
 \openout11 = `vcu_dokumentacja.lot'.
 
@@ -1810,14 +1810,11 @@ Package glossaries Warning: No \printglossary or \printglossaries found.
 (Remove \makeglossaries if you don't want any glossaries.) 
 This document will not have a glossary.
 
-[9] (vcu_dokumentacja.aux)
+[11] (vcu_dokumentacja.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package rerunfilecheck Warning: File `vcu_dokumentacja.out' has changed.
@@ -1825,19 +1822,19 @@ Package rerunfilecheck Warning: File `vcu_dokumentacja.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `vcu_dokumentacja.out':
-(rerunfilecheck)             Before: 865A2714A0554210C2B7B5DFCE66CF37;200
-(rerunfilecheck)             After:  7A46D65A9CCDB82212DF7B523929A22A;593.
+(rerunfilecheck)             Before: 4193541B589F3CD878ABF64B3E60E44F;984
+(rerunfilecheck)             After:  1550D8EBFBD58E08DBFDE7C0B81676FD;1578.
 Package logreq Info: Writing requests to 'vcu_dokumentacja.run.xml'.
 \openout1 = `vcu_dokumentacja.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46159 strings out of 402982
- 943881 string characters out of 5448462
- 2114074 words of memory out of 5000000
- 74203 multiletter control sequences out of 15000+600000
- 633338 words of font info for 113 fonts, out of 8000000 for 9000
+ 46289 strings out of 402982
+ 946170 string characters out of 5448462
+ 2119316 words of memory out of 5000000
+ 74324 multiletter control sequences out of 15000+600000
+ 633362 words of font info for 116 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 114i,11n,131p,2515b,3798s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 114i,11n,131p,2515b,4100s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on vcu_dokumentacja.pdf (9 pages).
+Output written on vcu_dokumentacja.pdf (11 pages).

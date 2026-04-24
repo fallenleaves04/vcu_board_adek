@@ -1,1 +1,15 @@
 \chapter{Sprzęt zawarty w komputerze pokładowym}\label{chap:sprzet}
+\section{Sekcja zasilania}
+
+\section{Układy analogowe}
+Układy analogowe są wyposażone w diody TVS umieszczone blisko złącza. Dzielniki napięcia składają się z dwóch jednakowych rezystorów o wartości 7.5k dla zmiany napięcia z 5V do 2.5V. Wyjściowe napięcie jest filtrowane przez kondensator 1uF. Diody Schottky'ego BAT54SW ograniczają napięcie do maksymalnego 3.5-3.6V (z uwzględnieniem spadku napięcia na diodach). Poziom napięcia wyjściowego jest zgodny z napięciem referencyjnym, zadanym przez generator napięcia referencyjnego LM4030-2.5. 
+\\
+Napięcie referencyjne i zasilania układów analogowych mikrokontrolera jest filtrowane przez filtr dolnoprzepustowy. Dodatkowy rezystor połączony szeregowo z kondensatorem pełni funkcję dampingu częstotliwości.
+\section{Układy cyfrowe}
+Układy cyfrowe typu "active high" są wyposażone w podobny dzielnik napięcia dla zmniejszenia maksymalnego napięcia z 5V do 3V.
+\\
+Układy cyfrowe typu "active low" mają rezystor pull-up i są podłączone do szyny napięcia 3V3. Są obecne tak samo diody TVS i diody Schottky'ego dla ograniczenia maksymalnego napięcia.
+\section{Układ monitorowania HVIL}
+Generacja prądu i jego pomiar...
+\section{Układy wyjściowe}
+Wyjścia tranzystorowe jak w CAN Node (6 szt., HSO3 i HSO4 są PWM).

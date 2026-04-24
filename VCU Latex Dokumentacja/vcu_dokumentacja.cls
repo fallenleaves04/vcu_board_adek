@@ -377,7 +377,7 @@
 \RequirePackage{longtable}
 \RequirePackage{colortbl}
 \RequirePackage{tabularx}
-
+\RequirePackage{booktabs}
 
 % -------------------------------------------------------------------
 % Kolory

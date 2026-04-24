@@ -2552,7 +2552,7 @@
 		)
 		(uuid "faf0b0a6-229d-4b28-bf22-10c85e04e5a8")
 	)
-	(global_label "PC7"
+	(global_label "PD15"
 		(shape input)
 		(at 102.87 146.05 0)
 		(fields_autoplaced yes)
@@ -2562,9 +2562,9 @@
 			)
 			(justify left)
 		)
-		(uuid "23ce1544-1a07-42d7-a8fe-113c6f51ca52")
+		(uuid "2abdb0f5-9a65-49eb-a8a8-d19d86650b19")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 109.6047 146.05 0)
+			(at 110.8142 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)

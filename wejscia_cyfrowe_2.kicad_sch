@@ -2944,6 +2944,28 @@
 			)
 		)
 	)
+	(global_label "PC7"
+		(shape input)
+		(at 167.64 50.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "615b21af-cfff-4696-bc47-5ff1d42370e1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 174.3747 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "DIG_INPUT_4"
 		(shape input)
 		(at 104.14 167.64 180)
@@ -2979,28 +3001,6 @@
 		(uuid "8d2b5fa7-b7a2-4966-94e6-0be677dc7e2e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 115.8942 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "PD15"
-		(shape input)
-		(at 167.64 50.8 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "cbdb9dcf-32a4-4029-9472-d21ace2b79a0")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 175.5842 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)

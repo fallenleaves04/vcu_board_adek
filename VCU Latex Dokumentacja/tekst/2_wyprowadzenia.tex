@@ -3,15 +3,19 @@
 
 \begin{table}[H]
 	\centering
-	\caption{Wejścia głównego złącza J1}
+	\caption{Wyjścia głównego złącza J1}
 	\label{tab:wyprowadzenia_zlacza_1}
-	\begin{tabular}{c cc cc cc cc}
+	\begin{tabular}{cccccc}
 		\toprule
-		\multicolumn{2}{c}{\textbf{Nazwa pinu}} &
-		\multicolumn{2}{c}{\textbf{Numer pinu na złączu}} &
-		\multicolumn{2}{c}{\textbf{Numer pinu na mikrokontrolerze}} &
-		\multicolumn{2}{c}{\textbf{Funkcja}} &
-		\multicolumn{2}{c}{\textbf{Opis}}  \\
+		\textbf{Nazwa pinu} & \textbf{Numer pinu na złączu} & \textbf{Numer pinu na $\mu$C} & \textbf{Funkcja} & \textbf{Opis} \\
+		\midrule
+		VIN\_24V  & 1  & -- & Zasilanie & 24V DC z akumulatora \\
+		GND       & 2  & -- & Masa      & Powrót masy \\
+		CAN1\_H   & 3  & PA11 & CAN1 High & Magistrala CAN1 \\
+		CAN1\_L   & 4  & PA12 & CAN1 Low  & Magistrala CAN1 \\
+		AIN1      & 5  & PA0  & Analog wej. 1 & Sygnał 0-5V z czujnika temperatury \\
+		DIG\_IN1  & 6  & PB0  & Digital wej. 1 & Wejście 24V (stan wysoki) \\
+		HSO1      & 7  & PB1  & Wyjście HSO & 24V/2A, zabezpieczone \\
 		\midrule
 		
 		\bottomrule

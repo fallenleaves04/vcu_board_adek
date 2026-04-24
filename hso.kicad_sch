@@ -2783,28 +2783,6 @@
 			)
 		)
 	)
-	(global_label "PE2"
-		(shape input)
-		(at 119.38 77.47 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "17ff82d5-0bfb-46a5-a955-14ce1d3bee42")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 125.9937 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "OUT_HSO_4"
 		(shape input)
 		(at 196.85 128.27 0)
